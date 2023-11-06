@@ -2,6 +2,25 @@
 
 This repository contains blog posts written by Sam Altman.
 
+![image](https://github.com/cliuxinxin/iai/assets/6162238/7b54f92f-f93e-4137-b1c3-4ff844490d30)
+
+奥特曼的表达欲望逐年降低
+
+![image](https://github.com/cliuxinxin/iai/assets/6162238/f029f977-fed7-400d-8199-cd548e4c0a2a)
+
+写的文章长度也降低
+
+最长的几篇文章的内容：
+
+这里是三篇最长的文章及其内容的部分摘要：
+
+文章标题: "You and Your Research, by Richard Hamming"
+
+文章标题: "How To Be Successful"
+
+文章标题: "2017 YC Annual Letter"
+
+
 ## Table of Contents
 
 - [Helion Needs You](helion-needs-you.md)
